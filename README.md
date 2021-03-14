@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=math974&layout=compact&theme=algolia" />
 </a>
-<img src="6nd1vmirw0q01.gif" height="100" width="100"/>
+<img src="6nd1vmirw0q01.gif" height="200" width="200"/>
 
 
