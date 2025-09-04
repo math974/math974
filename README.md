@@ -1,4 +1,4 @@
-### Hi, My name is Mathias BALLOT :joy:
+### Hi, My name is Mathias BALLOT
 
 <!--
 **math974/math974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
